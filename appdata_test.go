@@ -8,7 +8,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/p9dev/appdata"
+	"github.com/mleku/appdata"
 )
 
 // TestAppDataDir tests the API for Dir to ensure it gives expected results for
